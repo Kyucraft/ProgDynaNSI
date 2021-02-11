@@ -23,7 +23,7 @@ def gen_liste_pieces(tab,prix):
     listes_pieces=[]
     liste_prix=[]
     for i in range(len(tab)):
-        for j in range(prix//tab):
+        for j in range(prix//tab[i]):
             listes_pieces.append(tab[i])
     for i in range(len(listes_pieces)):
         liste_prix.append(-1)
