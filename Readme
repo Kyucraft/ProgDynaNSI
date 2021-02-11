@@ -2,3 +2,15 @@ code de Florian:
         Fonction:
                 
         
+Fonctions:
+        prog_edit():
+        """
+        Entrée: x, y, longeur(x), longueur(y), avec x et y 2 mots
+        Sortie:chaine de caractere la plus courte
+        renvoie le chemin le plus court en chaine de caractere
+        """
+
+
+
+
+
