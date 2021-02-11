@@ -1,0 +1,29 @@
+Rendu Monnaie:
+Tom, nathan, Killian, Emmanuel
+ 
+ but:
+ rend monnaie avec seulement [1, 4, 6] de manniere non brutale, optimise pour rendre le moins de pieces
+ ex: 8 -> 4, 4
+ 
+ fonctions:
+ 
+ gen_liste_pieces()
+ """
+ 
+ """
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
