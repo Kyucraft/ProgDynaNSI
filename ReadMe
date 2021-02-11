@@ -7,7 +7,12 @@ remplir le tableau, sac a dos
 
 
 Fonctions:
-
+    remplir_tabl():
+    """
+    Entrée: tab vide (avec valeurs del et ins deja misent), nb(compteur), tab (poids items), tab (val items)
+    Sortie: tableau rempli
+    remplie le tableau
+    """
 
 
 
