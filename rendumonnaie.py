@@ -31,4 +31,9 @@ def gen_liste_pieces(tab,prix):
 
 def pieces_necessaires(tab,prix):
     '''
+    Input --> tab:list, prix:int
+    Output --> list_pieces_necessaires:list
+
+    Prends une liste avec le bon nombre de pieces, le prix qu'on va chercher
+    Sors la liste ou il y a moins le moins depieces possible ou la somme est égal au prix
     '''
