@@ -12,7 +12,14 @@ Tom, nathan, Killian, Emmanuel
  
  """
 
-
+piece_necessaire()
+"""
+ressort la liste des pieces possible
+ex: 8 -> 
+[1,1,1,1,1,1,1,1],
+[4,4],
+[6]
+"""
 
 
 
