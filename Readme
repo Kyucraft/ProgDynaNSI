@@ -1,0 +1,7 @@
+distance_edition:Thibaut/Ioen/Alban/Joris/illias
+
+but :
+       Plus longue sous séquance (x,y):
+                delete :1
+                insert :1
+                replace :0 ou 2**64-1
