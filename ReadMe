@@ -3,16 +3,29 @@ Florian, Justin, Enzo, Célyan, Issam
 
 
 But:
-remplir le tableau, sac a dos
+1. Remplir le tableau correspondant aux objets en notre possession ainsi qu'à la taille de notre sac.
+2. Renvoyer les objets que l'on doit prendre pour obtenir la "valeur sentimentale" la plus grande possible.
+( -> deux fonctions disctintes )
 
 
 Fonctions:
-    remplir_tabl():
-    """
-    Entrée: tab vide (avec valeurs del et ins deja misent), nb(compteur), tab (poids items), tab (val items)
-    Sortie: tableau rempli
-    remplie le tableau
-    """
+1.
+remplir_tab():
+    '''
+    Entree: tab (list), nb (int), itempoid (list), itemvaleur (list)
+    Sortie: tab(list)
+
+    -> Prend en entrée le tab initial, rempli de '-1' désignant des cases vides, et procède au remplissage du tableau via la méthode vue en classe
+    '''
+
+2.
+def reconstruction():
+    '''
+    Entree: tab (list), itempoid (list), nb (int), sac (int)
+    Sortie: obj (list)
+
+    -> Prend en entrée le tab généré via la fonction 'remplir_tab' et parcourt celui-ci pour déterminer quels objets sont à prendre pour atteindre la valeur max
+    '''
 
 
 
