@@ -27,6 +27,4 @@ def reconstruction():
     -> Prend en entrée le tab généré via la fonction 'remplir_tab' et parcourt celui-ci pour déterminer quels objets sont à prendre pour atteindre la valeur max
     '''
 
-
-
-
+=> Le fichier "sakado.py" est presque intégralement commenté. Vous pourrez ainsi comprendre son fonctionnement en détail !!
